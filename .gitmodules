@@ -838,7 +838,7 @@
 	url = https://github.com/adafruit/Adafruit_CircuitPython_Pixelbuf.git
 [submodule "libraries/helpers/ticks"]
 	path = libraries/helpers/ticks
-	url = https://github.com/adafruit/Adafruit_CircuitPython_Ticks
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git
 [submodule "libraries/drivers/pcf8563"]
 	path = libraries/drivers/pcf8563
 	url = https://github.com/adafruit/Adafruit_CircuitPython_PCF8563.git
